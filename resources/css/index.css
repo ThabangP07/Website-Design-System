@@ -12,9 +12,9 @@ h1 {
 }
 
 .colors {
-    border: 1px solid black;
+    border: 2px solid gray;
     max-width: 80%;
-    margin: 0 auto;
+    margin: 10px auto;
 }
 
 .color-box {
@@ -22,4 +22,46 @@ h1 {
     width: 200px;
     height: 100px;
     display: inline-block;
+    text-align: center;
+    margin: 10px 6px;
 } 
+
+.dark-red {
+    background-color: darkred;
+}
+
+.light-blue {
+    background-color: lightsteelblue;
+}
+
+.dark-green {
+    background-color: darkgreen;
+}
+
+.aqua-marine {
+    background-color: aquamarine;
+}
+
+.cadet-blue {
+    background-color: cadetblue;
+}
+
+.beige {
+    background-color: beige;
+}
+
+.tan {
+    background-color: tan;
+}
+
+.dark-orange {
+    background-color: darkorange;
+}
+
+.pale-golden-rod {
+    background-color: palegoldenrod;
+}
+
+.sandy-brown {
+    background-color: sandybrown;
+}
