@@ -11,6 +11,11 @@ h1 {
     font-weight: 700px;
 }
 
+h2 {
+    margin-left: 6px;
+    margin-top: 10px;
+}
+
 .colors {
     border: 2px solid gray;
     max-width: 80%;
