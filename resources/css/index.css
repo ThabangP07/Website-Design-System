@@ -16,7 +16,7 @@ h2 {
     margin-top: 10px;
 }
 
-.colors {
+.colors, .fonts {
     border: 2px solid gray;
     max-width: 80%;
     margin: 10px auto;
@@ -30,6 +30,14 @@ h2 {
     text-align: center;
     margin: 10px 6px;
 } 
+
+.font {
+    display: inline-block;
+    width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
 
 .dark-red {
     background-color: darkred;
