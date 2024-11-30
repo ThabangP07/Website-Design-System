@@ -16,7 +16,7 @@ h2 {
     margin-top: 10px;
 }
 
-.colors, .fonts {
+.colors, .fonts, .topography {
     border: 2px solid gray;
     max-width: 80%;
     margin: 10px auto;
